@@ -10,8 +10,27 @@ Information Collection and Use
 
 For a better experience, while using our App & Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app do NOT use third party services that may collect information used to identify you.
+Information We Collect
+We may collect a variety of information from or about you or your devices from various sources, as described below.
 
+Information We Collect When You Use Our Services.
+Location Information.
+
+When you use our Services we may receive your precise location information. We also infer your general location information, for example by using your internet protocol (IP) address.
+
+Device Information.
+
+We receive information about the device and software you use to access our Services, including IP address, web browser type, operating system version, phone carrier and manufacturer, application installations, device identifiers, mobile advertising identifiers, and push notification tokens.
+
+Information We Receive from Other Sources.
+Information from third-party services.
+
+If you choose to link our Services to a third-party account, we may receive information about you, including your profile information and your photo, and your use of the third-party account. If you wish to limit the information available to us, you should visit the privacy settings of your third-party accounts to learn about your options.
+
+We use the information we collect:
+To provide, maintain, improve, and enhance our Services;
+
+For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you;
 
 Log Data
 
